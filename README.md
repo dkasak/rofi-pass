@@ -52,7 +52,7 @@ in a convenient way using [rofi](https://github.com/DaveDavenport/rofi).
   `:otp` will generate an OTP, either `pass-otp(1)` style, or according to the
   `otp_method:`, if it is defined.
 * Generating OTPs.
-  The format for OTPs should either compatible with `pass-otp(1)`:
+  The format for OTPs should either be compatible with `pass-otp(1)`:
 
   ```
   [...]
